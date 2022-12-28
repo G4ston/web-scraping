@@ -1,2 +1,2 @@
 # web-scrapping
-It is a webscrapping model that takes information from a website about job offers, applying specific filters and saving the information in notepads.
+Using the BeautifulSoup library, I created a webscrapping model that takes information from timesjobs.com, a job posting website. The app allows the user to filter by skills.
